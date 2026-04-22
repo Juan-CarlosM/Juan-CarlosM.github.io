@@ -64,7 +64,6 @@ Ingénieur mécatronique avec plus de 5 ans d’expérience dans la conception e
 
 -   Email: jcmtzrocha@gmail.com  
 -  LinkedIn: https://www.linkedin.com/in/juan-carlos-martinez-rocha-71009417b/?locale=en  
--  Google Scholar: yourlink  
 -  GitHub: github.com/Juan-CarlosM 
 
 ---
