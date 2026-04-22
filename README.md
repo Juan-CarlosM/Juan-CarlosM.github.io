@@ -1,4 +1,3 @@
-# Juan-CarlosM.github.io
 # Juan Carlos Martinez Rocha
 
 ## 🚀 Mechatronics Engineer | Robotics | Embedded Systems
