@@ -2,7 +2,7 @@
 
 ## Mechatronics Engineer | Robotics | Embedded Systems
 
-Ingénieur mécatronique avec plus de 5 ans d’expérience dans la conception et l’intégration de systèmes complexes combinant mécanique, électronique et logiciel. Expérience complète du cycle de développement, de la spécification à la validation expérimentale, avec une approche orientée performance et systèmes réels.
+I am a researcher in robotics, passionate about developement and experimentation.
 
 ---
 
