@@ -1,12 +1,12 @@
 # Juan Carlos Martinez Rocha
 
-## 🚀 Mechatronics Engineer | Robotics | Embedded Systems
+## Mechatronics Engineer | Robotics | Embedded Systems
 
 Ingénieur mécatronique avec plus de 5 ans d’expérience dans la conception et l’intégration de systèmes complexes combinant mécanique, électronique et logiciel. Expérience complète du cycle de développement, de la spécification à la validation expérimentale, avec une approche orientée performance et systèmes réels.
 
 ---
 
-## 🔧 Skills
+##  Skills
 
 **Systems & Mechatronics**
 - System architecture
@@ -25,19 +25,19 @@ Ingénieur mécatronique avec plus de 5 ans d’expérience dans la conception e
 
 ---
 
-## 🧪 Projects
+##  Projects
 
-### 🦽 Volting – Smart Wheelchair
+### Volting – Smart Wheelchair
 - Full mechatronic system design (hardware + control + AI)
 - Human motion recognition using IMU sensors
 - Real-world validation with users
 
-### 🐭 Robotic Prosthesis (HERMIN Project)
+### Robotic Prosthesis (HERMIN Project)
 - Design of 2-DOF precision mechanisms
 - Embedded control integration
 - Hall sensor-based position encoding
 
-### ⚡ Wireless Power Transfer System
+### Wireless Power Transfer System
 - Electromagnetic simulation (COMSOL)
 - Optimization of inductive components
 - Magnetic field leakage reduction
@@ -51,7 +51,7 @@ Ingénieur mécatronique avec plus de 5 ans d’expérience dans la conception e
 
 ---
 
-## 🌍 Experience
+## Experience
 
 - Postdoctoral Researcher – ESME (2025–Present)
 - PhD Robotics – Paris-Saclay (2021–2024)
@@ -60,15 +60,15 @@ Ingénieur mécatronique avec plus de 5 ans d’expérience dans la conception e
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/yourprofile  
-- 🧠 Google Scholar: yourlink  
-- 🐙 GitHub: github.com/yourusername  
+-   Email: jcmtzrocha@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/juan-carlos-martinez-rocha-71009417b/?locale=en  
+-  Google Scholar: yourlink  
+-  GitHub: github.com/Juan-CarlosM 
 
 ---
 
-## ⚡ About me
+## About me
 
 Passionate about building real-world robotic systems that bridge human interaction, control, and intelligent behavior. Strong interest in applied robotics, assistive technologies, and system-level engineering.
