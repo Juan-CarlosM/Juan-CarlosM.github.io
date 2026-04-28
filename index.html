@@ -80,6 +80,57 @@ footer {
     padding: 20px;
     background: #020617;
 }
+
+    .card {
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.card img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+}
+
+/* Overlay oscuro */
+.card::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 220px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+/* Texto encima */
+.card-content {
+    position: absolute;
+    bottom: 15px;
+    left: 20px;
+    right: 20px;
+    z-index: 2;
+}
+
+.card-content h3 {
+    margin: 0;
+    color: white;
+}
+
+.card-content p {
+    margin: 5px 0 0;
+    color: #cbd5f5;
+    font-size: 0.9em;
+}
+
+/* Efecto hover */
+.card:hover img {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
 </style>
 </head>
 
@@ -112,9 +163,12 @@ I am interested in robotic assitive devices as mobile robotics and prosthesis.
 <h2>Projects</h2>
 
 <div class="card" onclick="window.open('https://www.volting.org/index.php','blank')">
-<img src="images/tri_colage.png" alt="Volting project">
-<h3>Volting – Smart Wheelchair</h3>
-<p>Complete mechatronic system with AI-based human motion control using IMU sensors.</p>
+    <img src="images/tri_colage1.png" alt="Volting project">
+
+    <div class="card-content">
+        <h3>Volting – Smart Wheelchair</h3>
+        <p>Complete mechatronic system with AI-based human motion control using IMU sensors.</p>
+    </div>
 </div>
 
 <div class="card" onclick="window.open('#')">
