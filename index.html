@@ -46,33 +46,39 @@ h1, h2 {
 
 /* HERO HEADER */
 .hero {
-    background: #0f172a; /* tu color original */
+    background: #0f172a;
     color: #e2e8f0;
     padding: 120px 20px 40px 20px;
 }
 
+/* Nombre arriba */
+.hero-title {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 40px;
+}
+
+/* Contenedor horizontal */
 .hero-container {
     display: flex;
-    align-items: right;
+    align-items: center;
     justify-content: center;
-    gap: 30px;
+    gap: 40px;
     flex-wrap: wrap;
 }
 
+/* Foto izquierda */
 .hero img {
-    width: 170px;
-    height: 170px;
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
     object-fit: cover;
 }
 
+/* Texto derecha */
 .hero-text {
+    max-width: 500px;
     text-align: left;
-}
-
-.hero h1 {
-    margin: 0;
-    font-size: 2.5em;
 }
 
 
@@ -136,10 +142,23 @@ footer {
 </nav>
 
 <section class="hero">
-    <img src="images/Juan.jpeg" alt="MyPhoto">
-<h1>Juan Carlos Martinez Rocha</h1>
-<p>Postdoctoral researcher | Robotics | Mechatronics</p>
-<p>Designing intelligent systems integrating mechanics, electronics, and software.</p>
+
+    <!-- NOMBRE ARRIBA -->
+    <h1 class="hero-title">Juan Carlos Martinez Rocha</h1>
+
+    <!-- CONTENIDO ABAJO -->
+    <div class="hero-container">
+
+        <!-- FOTO -->
+        <img src="images/Juan.jpeg" alt="Foto de Juan Carlos">
+
+        <!-- TEXTO -->
+        <div class="hero-text">
+            <p>Postdoctoral researcher | Robotics | Mechatronics</p>
+            <p>Designing intelligent systems integrating mechanics, electronics, and software.</p>
+        </div>
+
+    </div>
 </section>
 
 <section id="about">
